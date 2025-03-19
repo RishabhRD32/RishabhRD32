@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @RishabhRD32
+- 👀 I’m interested in Technology
+- 🌱 I’m currently learning Computer Science
+- 😄 Pronouns: He / him
