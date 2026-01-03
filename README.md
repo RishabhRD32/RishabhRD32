@@ -144,7 +144,7 @@ Innovating at the intersection of <b>technology</b>, <b>creativity</b>, and <b>r
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="28"/> Go
 </p>
 
-🎮 Game Development & Simulation (NEW)
+🎮 Game Development & Simulation 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="28"/> Unity &nbsp;&nbsp;
   </p>
