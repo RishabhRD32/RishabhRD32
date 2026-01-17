@@ -158,12 +158,6 @@ Innovating at the intersection of <b>technology</b>, <b>creativity</b>, and <b>r
 - 🔬 Translating academic theory into practical tools  
 - ⚙️ Exploring automation, prediction systems & analytics
 
-## 🎮 Game Development & Simulation (NEW)
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="28"/> Unity &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="28"/> C
-</p>
-
 ---
 
 ## 📊 GitHub Stats 
