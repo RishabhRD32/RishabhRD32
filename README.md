@@ -80,7 +80,9 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RishabhRD32&theme=github_dark" alt="Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RishabhRD32&theme=github_dark&utcOffset=5.5" alt="Productive Time" />
 </p>
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RishabhRD32&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RishabhRD32&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </p>
