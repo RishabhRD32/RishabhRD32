@@ -3,7 +3,11 @@
 </div>
 
 <h1 align="center">Innovating at the intersection of Technology, Creativity, Research and Development.</h1>
-
+<div align="center">
+  <img src="https://img.shields.io/badge/Focus-Systems_Analysis-blue?style=flat-square&logo=gitbook&logoColor=white" />
+  <img src="https://img.shields.io/badge/Goal-Possibility_Engineering-green?style=flat-square&logo=futurelearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Method-Scientific_Reasoning-purple?style=flat-square&logo=google-scholar&logoColor=white" />
+</div>
 <p align="center">
   I am a Computer Science,Electronics student and developer focused on <b>Emerging Technologies</b> and <b>AI/ML Innovations</b>. I build solutions that prioritize clear logic, scalability, and research-driven development over hype-driven coding.
 </p>
