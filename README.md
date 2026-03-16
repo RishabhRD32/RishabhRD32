@@ -1,7 +1,22 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1000&color=00E7FF&center=true&vCenter=true&width=900&lines=Rishabdev+Tripathi;Student;Engineering+Ideas+Into+Real-World+Systems;AI+%7C+ML+%7C+Emerging+Technologies" alt="Typing SVG" />
-</div>
+  <h1 align="center">👋 Hello ! I'm Rishabdev Tripathi </h1>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&pause=100&color=00E7FF&center=true&vCenter=true&width=900&lines=Student;Engineering+Ideas+Into+Real-World+Systems;Website+Designer;Website+Developer;Software+Application+Developer;Tech+Explorer;Emerging+Technologies;Tech+Engineering" alt="Typing SVG" />
+<h3 align="center">Welcome to my GitHub universe — a place where curiosity meets code and ideas evolve into real-world solutions.
+</h3></div>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="120%" />
+</p>
 
+## 🌟 About Me
+
+🧠 Passionate about **Technology, Research, and Innovation**  
+🚀 Constantly exploring **AI, Advanced Programming, and Emerging Technologies**  
+🔬 Love experimenting with new ideas and building projects that push boundaries  
+📚 Always learning, always building, always improving  
+
+> “Code is not just instructions for machines — it’s a language for shaping the future.”
+
+---
 <h1 align="center">Innovating at the intersection of Technology, Creativity, Research and Development.</h1>
 <div align="center">
   <img src="https://img.shields.io/badge/Focus-Systems_Analysis-blue?style=flat-square&logo=gitbook&logoColor=white" />
@@ -25,15 +40,6 @@
 </div>
 
 <br/>
-
----
-
-### ⚙️ Core Engineering Philosophy
-
-* **Algorithmic Rigor:** Regular practice of Data Structures & Algorithms to ensure efficiency and handle edge cases gracefully.
-* **Research-to-Reality:** Translating academic theory in Machine Learning and Deep Learning into practical, deployable tools.
-* **System Integrity:** Designing secure, scalable, and data-aware architectures from the hardware level to the cloud.
-* **First-Principles Thinking:** Breaking down complex problems into fundamental truths to engineer innovative solutions.
 
 ---
 
@@ -107,8 +113,31 @@
 
 ---
 
+## 🌍 Let's Connect & Build
+
+If you're passionate about **Technology, Research, Artificial Intelligence, or Innovation**, you're in the right place.
+
+✨ Explore my repositories and experiments
+💡 Share ideas, insights, and feedback
+🚀 Build something impactful together
+
+Collaboration and curiosity drive progress — and this space is built for both.
+
+---
+
 ## 🤝 Collaboration & Open Source
-Open to collaborating on **research-based** and **impactful projects**. I am particularly interested in learning-focused teams and translating complex algorithms into scalable web or software applications. Feel free to reach out via the email linked at the top of this profile.
+
+I’m always open to collaborating on **research-driven and impactful projects**.
+My focus is on **learning, experimentation, and transforming complex algorithms into scalable software and web applications.**
+
+If you're working on something exciting in **AI, software engineering, or emerging technologies**, feel free to connect.
+
+📬 Reach out through the **email linked at the top of this profile.**
+
+---
+
+⭐ *“Stay curious. Keep building. The future belongs to creators.”*
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="120%" />
 </p>
