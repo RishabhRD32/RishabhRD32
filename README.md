@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">👋 Hello ! I'm Rishabdev Tripathi </h1>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&pause=100&color=00E7FF&center=true&vCenter=true&width=900&lines=Student;Engineering+Ideas+Into+Real-World+Systems;Website+Designer;Website+Developer;Software+Application+Developer;Tech+Explorer;Emerging+Technologies;Tech+Engineering" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&pause=100&color=00E7FF&center=true&vCenter=true&width=900&lines=Student;Engineering+Ideas+Into+Real-World+Systems;Full-Stack+Systems+Engineer;Possibility+Engineering;Cloud+Edge+Compute;Architecting+High-Concurrency+Systems;Localized+AI+Ecosystems;Website+Designer;Website+Developer;Software+Application+Developer;Tech+Explorer;Emerging+Technologies;Tech+Engineering" alt="Typing SVG" />
 <h3 align="center">Welcome to my GitHub universe — a place where curiosity meets code and ideas evolve into real-world solutions.
 </h3></div>
 <p align="center">
@@ -46,23 +46,71 @@
 ### 🛠️ Comprehensive Tech Stack
 
 <div align="center">
-  <p><b>Languages & Core Logic</b></p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts,php,r,kotlin,dart,swift,go&theme=light" alt="Languages" />
-  
-  <p><b>AI, Machine Learning & Scientific Computing</b></p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikitlearn,matlab&theme=light" alt="AI/ML/Data" />
-  
-  <p><b>Web, 3D & Mobile Development</b></p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,threejs,tailwind,bootstrap,html,css,androidstudio,flutter&theme=light" alt="Frontend/Mobile" />
-  
-  <p><b>Backend, Databases & Cloud</b></p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,mysql,mongodb,postgres,sqlite,vercel,netlify,cloudflare&theme=light" alt="Backend/Cloud" />
-  
-  <p><b>IoT & Embedded Systems</b></p>
-  <img src="https://skillicons.dev/icons?i=raspberrypi,arduino&theme=light" alt="IoT" />
-  
-  <p><b>Tools, Security & Productivity</b></p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,ubuntu,docker,vscode,bash,postman,notion,figma,canva&theme=light" alt="Tools" />
+  <p><b>Languages & Core Logic:</b></p>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <br/>
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
+  <br/><br/>
+  <p><b>AI, Machine Learning & Scientific Computing:</b></p>
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/MATLAB-%23e16737.svg?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />
+  <br/><br/>
+  <p><b>Web, 3D & Mobile Development:</b></p>
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white" alt="Threejs" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <br/>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
+  <br/><br/>
+  <p><b>Backend, Databases & Cloud:</b></p>
+  <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
+  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <br/>
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
+  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Netlify" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="Cloudflare" />
+  <br/><br/>
+  <p><b>IoT & Embedded Systems:</b></p>
+  <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" alt="Raspberry Pi" />
+  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
+  <br/><br/>
+  <p><b>Tools, Security & Productivity:</b></p>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnu%20bash&logoColor=white" alt="Bash" />
+  <br/>
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" />
 </div>
 
 ---
@@ -81,7 +129,10 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RishabhRD32&theme=github_dark" alt="Repos per Language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RishabhRD32&theme=github_dark" alt="Most Commit Language" />
 </p>
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RishabhRD32&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=58A6FF" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishabhRD32&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=58A6FF" alt="Top Languages" />
+</div>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RishabhRD32&theme=github_dark" alt="Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RishabhRD32&theme=github_dark&utcOffset=5.5" alt="Productive Time" />
@@ -110,6 +161,22 @@
 <p align="center">
   <i>“Quiet consistency compounds faster than loud motivation.”</i>
 </p>
+
+---
+
+### 🚀 Highlighted Architectures
+
+#### 1. [Advanced StudySpark](https://advanced-study-spark.vercel.app/)
+* **Stack:** Next.js 15, Firebase, Google Genkit, WebLLM
+* **Architecture:** A high-fidelity, cross-platform EdTech ecosystem bridging institutional management with personalized learning. Features a dual-pipeline AI integration utilizing both state-of-the-art Cloud AI and localized GPU inference for 100% hardware-autonomous data privacy.
+
+#### 2. [Pro Smart Recorder](https://github.com/RishabhRD32/Pro-Recorder)
+* **Stack:** Python, FFmpeg, OS-Level Hooks
+* **Architecture:** A multithreaded, high-performance screen capture matrix. Engineered a Concurrent State Machine to isolate graphical rendering from background daemon threads, utilizing WASAPI loopback integration and signal multiplexing to completely eliminate A/V synchronization drift.
+
+#### 3. Enterprise Institutional Web Infrastructure
+* **Stack:** Full-Stack Web Technologies, SEO Integration
+* **Architecture:** Solely architected and delivered the official production ecosystem for the Sainath Education Trust. Engineered a fully responsive environment featuring dynamic routing for institutional announcements, course updates, and cross-device compatibility.
 
 ---
 
