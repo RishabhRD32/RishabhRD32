@@ -129,14 +129,12 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RishabhRD32&theme=github_dark" alt="Repos per Language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RishabhRD32&theme=github_dark" alt="Most Commit Language" />
 </p>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RishabhRD32&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=58A6FF" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishabhRD32&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=58A6FF" alt="Top Languages" />
-</div>
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RishabhRD32&theme=github_dark" alt="Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RishabhRD32&theme=github_dark&utcOffset=5.5" alt="Productive Time" />
 </p>
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RishabhRD32&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
